@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1{
+    color: brown;
+    text-align: center;
+    height: 25%;
+    background-color: beige;
+}
+
+.navbar{
+    position:sticky;
+    height: 5%;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    text-size-adjust: initial;
+}
+
+.navbar a{
+   font-size: 20px;
+   color: white;
+   text-decoration: none;
+   padding: 26px 30px;
+}
+
+.paras{
+    font-size: 500%;
+}
+
+.lorem{
+    font-size: 500%;
+}

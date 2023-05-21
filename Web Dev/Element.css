@@ -1,0 +1,18 @@
+.special{
+    color:orange;
+    font-weight: bold;
+}
+h1:hover{
+    color:brown;
+    text-decoration: none;
+
+}
+
+li[class]{
+    font-size: 300%;
+}
+
+.background{
+    height: 1000px;
+    width: 1000px;
+}

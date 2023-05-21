@@ -1,0 +1,21 @@
+.body{
+    margin: 0 auto;
+    max-width: 900pxx;
+    width: 90%;
+}
+
+#box{
+    float: right;
+    margin-left: 15px;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 1em;
+}
+
+.special{
+    background-color: cadetblue;
+    padding: 15px;
+    color: white;
+}
